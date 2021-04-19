@@ -10,5 +10,4 @@ AI module identifies average transaction amount spent by customer and adds certa
 
 Technologies Used:
 
-Python
-Streamlit
+Python + Streamlit
